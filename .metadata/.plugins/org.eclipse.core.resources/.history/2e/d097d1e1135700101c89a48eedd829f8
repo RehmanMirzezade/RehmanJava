@@ -1,0 +1,17 @@
+package lesson2;
+
+public class Mainn {
+	public static void main(String[] args) {
+		int[] numbers = new int[5];
+		numbers[0] = 8;
+		numbers[1] = 11;
+		numbers[2] = 921;
+		numbers[3] = 1766;
+		numbers[4] = 11901;
+		for(int eded:numbers) {
+			System.out.println(eded);
+		}
+		
+
+	}
+}

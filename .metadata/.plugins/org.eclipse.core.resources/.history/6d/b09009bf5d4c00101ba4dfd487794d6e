@@ -1,0 +1,23 @@
+package lesson2;
+
+public class Computer {
+Integer id;
+String brand;
+String modeli;
+String coloru;
+public Computer() {
+	System.out.println("Paramatersiz");
+}
+public Computer(String modeli) {
+	this.modeli = modeli;
+	System.out.println("Modeli" + modeli);
+}
+public Computer(String modeli,String coloru) {
+	this.modeli = modeli;
+	this.coloru = coloru;
+	System.out.println("Modeli" + "" + modeli + "Coloru ise" + "" + coloru);
+}
+public void printDetails() {
+	System.out.println(coloru + modeli);
+}
+}

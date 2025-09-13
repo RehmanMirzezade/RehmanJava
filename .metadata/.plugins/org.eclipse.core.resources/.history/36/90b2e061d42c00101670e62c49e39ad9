@@ -1,0 +1,19 @@
+package lesson2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int a , b , c;
+		a=547;
+		b=675;
+		c=345;
+		double pi =7.98;
+		char character = 7;
+		
+        System.out.println("a,b,c");
+        System.out.println("character");
+        System.out.println("pi");
+	}
+
+}

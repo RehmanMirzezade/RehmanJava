@@ -1,0 +1,21 @@
+package lesson;
+
+public class Animals {
+private int age;
+private String name;
+public Animals(String name,int age) {
+	this.name = name;
+	this.age = age;
+}
+public int getage() {
+	return this.age;
+}
+public String getName() {
+	return this.name;
+}
+public void makeSound() {
+	System.out.println("Animal make sound... he said");
+}
+}
+
+

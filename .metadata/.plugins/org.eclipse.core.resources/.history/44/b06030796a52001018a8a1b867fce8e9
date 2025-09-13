@@ -1,0 +1,17 @@
+package lesson2;
+
+public class Factorial {
+	
+public static void main(String[] args) {
+int eded = 10;
+int i = 1;
+for(int in = 1;in<eded;in++) {
+	System.out.println(in*i);
+
+}
+System.out.println();
+
+}
+}
+
+

@@ -1,0 +1,28 @@
+package lesson2;
+
+
+public class Main {
+	public static void main(String[] args) 
+	{
+Computer computer1 = new Computer("Model","Yasil");
+Computer computer2 = new Computer("bmw","ag");
+Computer computer3 = new Computer("bugatti","mavi");
+computer1.printDetails();
+computer2.printDetails();
+computer3.printDetails();
+
+	}
+	
+	
+
+
+}
+	
+
+		
+
+	
+
+
+
+

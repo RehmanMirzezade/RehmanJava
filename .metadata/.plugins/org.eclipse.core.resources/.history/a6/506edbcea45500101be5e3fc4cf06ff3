@@ -1,0 +1,36 @@
+package lesson2;
+
+import java.util.Scanner;
+
+public class Factorial {
+	
+public static int sumOfdigits(int number) {
+	while(number>0) {
+
+	}
+	number%10;
+	number = number/10;
+	sumOfdigits(69);
+
+}
+public static int prosuctofdigits(int number) {
+	while(number>0) {
+		
+	}number%10;
+	number = number/10;
+	prosuctofdigits(13);
+}
+
+
+}
+class Main{
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(eded);
+		
+		System.out.println("Tam eded yazin");
+	scanner.nextint();
+		
+	}
+}
+
+
