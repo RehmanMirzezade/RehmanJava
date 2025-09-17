@@ -28,7 +28,7 @@ public class Car {
 
 }
     public void displayInfo() {
-        System.out.println(  brand  + model+ year +  price);
+        System.out.println(  brand  + model + year +  price);
     }
 }
-}
+

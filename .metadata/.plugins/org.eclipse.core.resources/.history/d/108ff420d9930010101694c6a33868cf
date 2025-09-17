@@ -1,0 +1,13 @@
+package lesson3;
+
+import java.util.Arrays;
+
+public class ARray {
+public static void main(String[] args) {
+	int[] artansira = {1,2,3,7,1,67,854,235,3212};
+	Arrays.sort(artansira);
+	for(int i :artansira) {
+		System.out.println(i + ",");
+	}
+}
+}

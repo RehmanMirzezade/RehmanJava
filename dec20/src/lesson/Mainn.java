@@ -1,7 +1,6 @@
 package lesson;
 
 public class Mainn {
-	public class Main {
 	    public static void main(String[] args) {
 
 	        BMW bmw1 = new BMW("BMW");
@@ -19,4 +18,4 @@ public class Mainn {
 	    }
 	}
 
-}
+

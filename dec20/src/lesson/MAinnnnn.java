@@ -9,6 +9,8 @@ public class MAinnnnn {
 	        System.out.println("Vurma: " + calc.vurma(1,2));
 	        System.out.println("Bölmə: " + calc.bolme(1,2));
 	        System.out.println("Qalıq: " + calc.qaliqTapma(1,2));
+	        
+	        
 	    }
 	}
 
