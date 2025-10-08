@@ -1,6 +1,6 @@
 package lesson3;
 
-abstract class Animal {
+public abstract class Animal {
 String name;
 int age;
 public Animal(String name,int age) {

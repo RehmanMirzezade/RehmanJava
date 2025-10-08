@@ -20,9 +20,9 @@ public class Employee extends Person{
 	    public void printInfo() {
 	        super.printInfo();  
 	        System.out.println("maas " + salary);
-	        System.out.println("department" + department);
+	        System.out.println("department " + department);
 	        System.out.println("ad " + username);
-	        System.out.println("sifre: " + password);
+	        System.out.println("sifre " + password);
 	    }
 	}
 

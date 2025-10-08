@@ -19,11 +19,11 @@ public class Person {
 	    }
 
 	    public void printInfo() {
-	        System.out.println("id: " + id);
-	        System.out.println("ad" + name);
-	        System.out.println("soyad: " + surname);
-	        System.out.println("yas: " + age);
-	        System.out.println("Telefon: " + phone);
-	        System.out.println("unvan: " + address);
+	        System.out.println("id  " + id);
+	        System.out.println("ad " + name);
+	        System.out.println("soyad " + surname);
+	        System.out.println("yas " + age);
+	        System.out.println("Telefon " + phone);
+	        System.out.println("unvan " + address);
 	    }
 }
