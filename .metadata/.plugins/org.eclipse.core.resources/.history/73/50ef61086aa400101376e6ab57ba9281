@@ -1,0 +1,13 @@
+package lesson6;
+
+public class Main2 {
+public static void main(String[] args) {
+	User adam = new User();
+	try {
+		adam.setAge(12);
+		System.out.println(adam.getAge);
+	}catch(Ageexecpiton e){
+		 System.out.println("!Error! " + e.getMessage());
+	}
+}
+}

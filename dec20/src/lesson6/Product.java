@@ -1,5 +1,8 @@
 package lesson6;
 
-public class Product {
+	public interface Product {
+	    double getPrice();
+	    String getName();
+	}
 
-}
+
